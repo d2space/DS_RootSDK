@@ -36,7 +36,7 @@ more frameworks relationship Test
  * class ViewController: UIViewController {
  *     override func viewDidLoad() {
  *         super.viewDidLoad()
- *         let dic = ["name": "李超",
+ *         let dic = ["name": "d2space",
  *                    "age": "22",
  *                    "cards":[["name":"联璧金融","id":"1"],["name":"联璧智仟汇","id": "2"]],
  *                    "card":["name": "乐口福", "id": "1005","bank":["id": "005","name": "工商银行"]]] as [String : Any]
