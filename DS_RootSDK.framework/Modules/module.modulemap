@@ -1,0 +1,11 @@
+framework module DS_RootSDK {
+  umbrella header "DS_RootSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module DS_RootSDK.Swift {
+    header "DS_RootSDK-Swift.h"
+    requires objc
+}
